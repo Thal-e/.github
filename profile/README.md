@@ -1,5 +1,5 @@
 
-![Organization Logo](thale-banner.jpg)
+![Organization Banner](/profile/thale-banner.png)
 
 Welcome to the GitHub repository of Thal.E! 
 
